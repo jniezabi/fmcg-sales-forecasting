@@ -19,3 +19,7 @@ In the FMCG retail sector, accurate demand planning is crucial to avoid **Stock-
 * **Visualization:** Matplotlib, Seaborn
 * **Modeling:** Facebook Prophet (Time Series), XGBoost (ML Regressor)
 * **Evaluation:** MAPE, RMSE
+
+## Dataset
+The data used in this project comes from the [Rossmann Store Sales Kaggle Competition](https://www.kaggle.com/c/rossmann-store-sales).
+*Note: This project is for educational and portfolio purposes only.*
